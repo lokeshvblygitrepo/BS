@@ -1,0 +1,56 @@
+{
+	"documentId": "ELIGIBILITY_RECAP",
+	"outputType": "PDF",
+	"template": "ELIGIBILITY_RECAP",
+	"isBatched": false,
+	"data": {
+		"eligibilityRecap": {
+			"subscriberHccId": "51000000000882-01",
+			"productName": "Delta Dental PPO",
+			"billPeriod": "2019-09-01 00:00:00.0",
+			"billPeriodFrom": "2019-09-01 00:00:00.0",
+			"billPeriodTo": "2019-09-01 00:00:00.0",
+			"idTypeGroup": "System Generated ID",
+			"subAccountHccId": "00000000782-0000000001",
+			"subAccountName": "ASC Monthly - Correspondence",
+			"rateSummaryCountMap" : {
+				"SUBSCRIBER" : "10",
+				"SUBSCRIBER/SPOUSE" : "20",
+				"FAMILY" : "30",
+				"SUBSCRIBER/CHILD" : "11",
+				"SUBSCRIBER/CHILDREN" : "12",
+				"N/A" : "20"
+			},
+			"eligibilityRecapDetails": [
+				{
+					"subscriberId": "5100000000082",
+					"subscriberFirstName": "Mohammed",
+					"subscriberLastName": "Azaruddin",
+					"subscriberBirthDate": "1950-01-01 00:00:00.0",
+					"departmentName": "Deltadental",
+					"employmentStatusName": "Active",
+					"employmentTypeName": "Unspecified",
+					"isUnion": "U",
+					"benefitPlanName": "ASC Monthly - Correspondence",
+					"rate": "SUBSCRIBER",
+					"subscriberEffectiveDate": "2019-09-01 00:00:00.0",
+					"subscriberTerminationDate": "2019-09-01 00:00:00.0"
+				},
+				{
+					"subscriberId": "5100000000082",
+					"subscriberFirstName": "Mohammed",
+					"subscriberLastName": "Azaruddin",
+					"subscriberBirthDate": "1950-01-01 00:00:00.0",
+					"departmentName": "Deltadental",
+					"employmentStatusName": "Active",
+					"employmentTypeName": "Unspecified",
+					"isUnion": "U",
+					"benefitPlanName": "ASC Monthly - Correspondence",
+					"rate": "SUBSCRIBER",
+					"subscriberEffectiveDate": "2019-09-01 00:00:00.0",
+					"subscriberTerminationDate": "2019-09-01 00:00:00.0"
+				}
+			]
+		}
+	}
+}

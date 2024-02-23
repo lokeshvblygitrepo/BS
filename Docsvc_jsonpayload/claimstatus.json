@@ -1,0 +1,47 @@
+{
+	"documentId": "CLAIM_STATUS",
+	"outputType": "PDF",
+	"template": "CLAIMS_STATUS_REPORT",
+	"data": {
+		"claimHccId": "201922100012",
+		"providerName": "FALES, DAVID R",
+		"networkStatus": "In Network Premier",
+		"memberFirstName": "CAROL",
+		"memberLastName": "HOLLAND",
+		"memberDob": "1986-04-17 00:00:00.0",
+		"subscriptionHccId": "51000010936293",
+		"subcriberFirstName": "NIKOLAUS",
+		"subscriberLastName": "HOLLAND",
+		"subscriberAddressLine": "25 MARTIN LN",
+		"subscriberAddressLine2": null,
+		"subscriberCityName": "SPRINGBORO",
+		"subscriberStateCode": "OH",
+		"subscriberCountryCode": "US",
+		"subscriberZipCode": "45066",
+		"claimReceivedDate": "2019-08-14 00:00:00.0",
+		"reportDate": "2019-09-23 02:02:42.0",
+		"treatmentInfoList": [
+			{
+				"toothCode": "4",
+				"toothSurfaceCode": "B",
+				"procedureCode": "D2140",
+				"serviceDate": "2019-06-01 00:00:00.0",
+				"billedAmount": "200"
+			},
+			{
+				"toothCode": null,
+				"toothSurfaceCode": null,
+				"procedureCode": "D9944",
+				"serviceDate": "2019-06-01 00:00:00.0",
+				"billedAmount": "800"
+			},
+			{
+				"toothCode": null,
+				"toothSurfaceCode": null,
+				"procedureCode": "D0230",
+				"serviceDate": "2019-06-01 00:00:00.0",
+				"billedAmount": "200"
+			}
+		]
+	}
+}

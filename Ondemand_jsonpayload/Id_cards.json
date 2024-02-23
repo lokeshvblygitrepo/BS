@@ -1,0 +1,19 @@
+{
+
+"reportId":"ID_CARDS",
+
+"filterParams": {
+
+  "MEMBER_HCC_ID": "51000090485379-01"
+
+  },
+
+ "reportMapping" : {
+
+ 	"TOP_ACCOUNT_ID" : "00000006361",
+
+ 	"SUB_ACCOUNT_ID" : "00000006361-0000000004"
+
+ }
+
+}

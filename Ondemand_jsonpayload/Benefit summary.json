@@ -1,0 +1,21 @@
+{
+
+	"reportId": "BENEFIT_SUMMARY_REPORT",
+
+	"filterParams": {
+
+		"MEMBER_HCC_ID": [
+
+			"51000018653242-01"
+
+		],
+
+		"AS_OF_DATE": [
+
+			"2020-09-11"
+
+		]
+
+	}
+
+}

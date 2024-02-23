@@ -1,0 +1,13 @@
+{
+	"documentId": "GROUP_ADDRESS_PAGE",
+	"outputType": "PDF",
+	"template": "GROUP_ADDRESS_PAGE",
+	"data":
+	{
+		"accountName": "Jason C Reynolds",
+		"groupAdminName": "Jason G B",
+		"accountAddressLine1": "12587 Fair Lakes Circle",
+		"accountAddressLine2": "12587 Fair Lakes Circle",
+		"accountCityStateZip" : "FAIRFAX, VA 22033"
+	}
+}

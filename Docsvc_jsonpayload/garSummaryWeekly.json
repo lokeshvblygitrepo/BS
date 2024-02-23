@@ -1,0 +1,44 @@
+
+{
+    "documentId": "WEEKLY_GAR_SUMMARY",
+    "outputType": "PDF",
+    "template": "GAR_SUMMARY",
+    "data": {
+        "ascWeeklyBill":{
+        "accountHccId": "00000000782-0000000001",
+        "accountName": "ASC Monthly - Correspondence",
+        "creationDate": "2019-10-01 00:00:00.0",
+        "billNum": "3423",
+        "balanceForward": "666",
+        "totalClaimAmount": "34",
+        "totalAdjustments": "45",
+        "totalCharges": "34",
+        "billTotalDue": "33",
+        "claimsCount": "55"
+        },
+        "garSummary": {
+            "totalClaimsCount": "2",
+        "totalAmountSubmitted": "55",
+        "totalMemberRespAmount": "0",
+        "subSubAccountHccId": "00000000782-0000000001",
+        "subSubAccountName": "ASC Monthly - Correspondence",
+        "subAccountHccId": "00000000782-0000000001",
+        "subAccountName": "ASC Monthly - Correspondence",
+        "billPeriodFrom": "1800-01-01 00:00:00.0",
+        "billPeriodTo": "2019-10-01 00:00:00.0",
+        "totalAmountPaid": "55",
+        "garSummaryList": [
+            {
+                "accountNumber": "00000000782-0000000001",
+                "accountName": "ASC Monthly - Correspondence",
+                "claimCount": "2",
+                "amountSubmitted": "55",
+                "amountPaid": "55",
+                "patientPays": "0"
+            }
+        ],
+        "creationDate": "2019-10-01 00:00:00.0"
+        }
+        
+    }
+}

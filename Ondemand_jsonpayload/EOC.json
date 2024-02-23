@@ -1,0 +1,27 @@
+{
+
+  "reportId": "EOC_ONDEMAND",
+
+  "filterParams": {
+
+    "BENEFIT_PLAN_HCC_ID": [
+
+      "700089001"
+
+    ],
+
+    "EFFECTIVE_DATE": [
+
+      "2020-09-01"
+
+    ],
+
+    "ACCOUNT_ID":[
+
+        "00000700089"
+
+    ]
+
+  }
+
+}

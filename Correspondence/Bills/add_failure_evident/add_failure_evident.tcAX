@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{90411051-6ECF-4F90-B8D3-C8785F937139}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="add_failure_evident" tlbHistory="" />
+	<testData />
+	<data />
+	<children>
+		<child key="{1CBAFBD6-61BB-4F82-A264-024F2C4CEC53}">
+			<config nodeName="add_failure_evident" lastOpenedTLB="" generatedCLSID="{69F32FCE-E56F-44D7-A545-7C5091F64E2E}" generatedTLBKey="{A73661E8-76F7-4762-85A8-B1B76F6FDA5F}" generatedEventsKey="{8BA41F60-9B40-450E-81CB-1AEEA2CCFD17}" generatedTLBDesc="TestComplete add_failure_evident Control - 9/28/2023 3:32:46 PM">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<handlerInfo handlerName="add_failure_evident_OnLogError" handlerMoniker="{65B6D44D-7D1A-4549-8288-63F2C7C4AD00}add_failure_evident_OnLogError" handlerEventName="OnLogError" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743811" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

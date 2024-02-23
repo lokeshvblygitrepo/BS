@@ -1,0 +1,40 @@
+{
+	"documentId": "RISK_BILL_INDIVIDUAL",
+	"outputType": "PDF",
+	"data": {
+		"accountNumber": "00000006345-0000000001",
+		"accountName": "Pasha",
+		"billNumber": "6304",
+		"billingDate": {
+			"eligibilityAsOf": "08/08/2019",
+			"coveragePeriod": "10/01/2018-10/30/2018",
+			"dueDate": "08/01/2019",
+			"billPeriodFrom": "1580515200000",
+			"billPeriodTo": "1585699200000"
+		},
+		"billingAddress": {
+			"addressLine": "387 North Main St",
+			"addressLine2": null,
+			"addressLine3": null,
+			"addressType": null,
+			"cityName": "Roanoke",
+			"stateCode": "VA",
+			"zipCode": "24015",
+			"zip4Code": null
+		},
+		"billingAmount": {
+			"totalCurrentDue": "$8,280,772.95",
+			"currentDue": "$8,280,772.95",
+			"balanceForward": "$41,751.35",
+			"lastPaymentReceived": "$8,280,772.95",
+			"adjustments": "$0.00",
+			"totalDue": "8,322,524.30",
+			"totalDueInDollar": "8,322,524.30"
+		},
+		"fromAddress": "4818 Starkey Road Roanoke, \\n VA 24018-8510",
+		"subscriptionHccId": "000000000000001",
+		"coveragePeriod": "12-11-2009 - 12-11-2010",
+		"subscriberFirstLastName": "WILLIAM HUTCHISON",
+		"billScanLine" : "115612791212-jsqk"
+	}
+}

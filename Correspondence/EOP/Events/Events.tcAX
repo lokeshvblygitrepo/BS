@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{202C5379-F4B2-40BE-9D33-379CBE4FDC97}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{B71A3A42-4BF8-4210-87EE-1695A92F98FA}">
+			<config nodeName="add_failure_evident" lastOpenedTLB="" generatedCLSID="{DD768568-D6E1-43AD-A42B-61A3675009F3}" generatedTLBKey="{A6189BD9-1565-49A8-83F2-649189A50FD9}" generatedEventsKey="{56A487F1-B368-410E-A42B-3D280267A56A}" generatedTLBDesc="TestComplete add_failure_evident Control - 6/15/2023 2:28:02 PM">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

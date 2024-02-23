@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{A1DADF92-570E-40D7-A0BC-CD4801A7711A}">
+	<children>
+		<child name="EOP" key="{0CE722FA-E852-42B8-B204-F44B61F193D2}" path="EOP\EOP.mds" />
+		<child name="Bills" key="{F8D5EA8A-247A-44DB-AC48-0A004283F824}" path="Bills\Bills.mds" />
+	</children>
+	<testItems key="{6E95CEF9-ACF1-4AD8-B74F-F1A1C511DD13}">
+		<children>
+			<testItem key="{0CE722FA-E852-42B8-B204-F44B61F193D2}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{F8D5EA8A-247A-44DB-AC48-0A004283F824}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{C817FD3C-9DF6-43B7-BD00-030C11083FA4}" />
+	<analysis key="{A7F21DDB-103D-4118-943D-D8B274B4252D}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

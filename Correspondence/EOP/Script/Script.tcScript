@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Function">
+			<child name="Basic_Actions" key="{A6DFFD91-4EC2-431E-916F-22AD809A6DD0}" path="Basic_Actions.py" />
+			<child name="HE_Helper_Functions" key="{7FC2A3B5-4EF3-4DEA-8A48-AB6B0FDB1CE3}" path="HE_Helper_Functions.py" />
+			<child name="DW_Helper_Functions" key="{A372FA1A-8665-41E6-8959-C51D18565389}" path="DW_Helper_Functions.py" />
+			<child name="Correspondence_Helper_Functions" key="{5443D83C-1C1D-415B-ACF6-45BF6E869B77}" path="Correspondence_Helper_Functions.py" />
+			<child name="Collect_Execution_Info" key="{001C6408-5B13-4C72-92AD-3B32EF770506}" path="Collect_Execution_Info.py" />
+			<child name="Execution_Hooks" key="{E3B296EA-3BA4-4F56-8F4F-51356FCE5D09}" path="Execution_Hooks.py" />
+			<child name="Tear_Down" key="{F91A391A-036D-4B37-A49A-22DEB6A94EA8}" path="Tear_Down.py" />
+		</folder>
+		<folder name="Pages">
+			<child name="Home_Page" key="{6D0AA1E2-F573-4192-893B-372B6EEC7657}" path="Home_Page.py" />
+			<child name="Login_Page" key="{E84F581A-F582-4621-94E0-4CA8BB672EA7}" path="Login_Page.py" />
+		</folder>
+		<child name="StepDefinitions" key="{D43DB5FC-A536-4204-8D83-DAEB2BE8F84E}" path="StepDefinitions.py" />
+		<child name="AddBillingRates" key="{080B5BC9-1098-4E05-9B8F-1B0E18C899D6}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\AddBillingRates.py" />
+		<child name="CommonFunctions" key="{B8C06CED-84ED-4BF8-8DF5-5837DFDA7A0D}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\CommonFunctions.py" />
+		<child name="DataFunctions" key="{42ABD5C4-3D2A-4C9E-B1C2-BA94FFA30C35}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\DataFunctions.py" />
+		<child name="HECommonWindowFunctions" key="{85BB9129-2FDE-42F4-A57B-D930013C535E}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\HECommonWindowFunctions.py" />
+		<child name="LogFormatFunctions" key="{84FD626C-17BA-4BE6-A55A-1B7C4F49E61D}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\LogFormatFunctions.py" />
+		<child name="ResolveWindow" key="{4A3701C1-E152-42D2-9387-3AFA49A0C2CC}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\ResolveWindow.py" />
+		<child name="SearchFunctions" key="{75844409-E649-4EED-97E7-E6A604B34703}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\SearchFunctions.py" />
+		<child name="UtilityFunctions" key="{F266415C-8BE4-45F5-9F38-23E8EFC9FB77}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\UtilityFunctions.py" />
+		<child name="CreateClaim" key="{7DE75282-7FF4-42CC-8D32-1CF8FB4591C8}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\CreateClaim.py" />
+		<child name="DataCreationFunctions" key="{44CA4AF5-FC2A-46D1-AF87-43C5F0C09817}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\DataCreationFunctions.py" />
+		<child name="EmailExecutionResults" key="{382CD52B-77E6-4F85-BCC5-EF744B9C5B3E}" path="..\..\..\..\..\..\..\Automation\FunctionLibrary\Functions\Script\EmailExecutionResults.py" />
+	</children>
+</Root>

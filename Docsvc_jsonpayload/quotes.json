@@ -1,0 +1,94 @@
+{
+	"documentId": "QUOTE",
+	"outputType": "PDF",
+	"template": "QUOTE_SUMMARY",
+	"fileNamePrefix": null,
+	"data": {
+		"quoteId" : "608",
+		"accountName": "Company 1 LTD",
+		"reportDate": "February 20, 2020",
+		"effectiveDate": "2019-12-01",
+		"accountZipCode": "24015",
+		"naicsCode": "492110",
+		"naicsName": null,
+		"rateDetailsDTOList": [
+			{
+				"quoteNum": "Quote 1",
+				"productDesc": "Delta Dental PPO plus Premier",
+				"planDesc" : "Passive",
+				"staticQuote": "PPO/Premier/OON",
+				"type1Quote": "100%/100%/100%",
+				"type2Quote": "90%/80%/80%",
+				"type3Quote": "60%/50%/50%",
+				"type4Quote": "50%/50%/50%",
+				"compositeQuote": "NO",
+				"endodonticQuote": "Type II - Basic",
+				"wpType3Quote": "6 mo.",
+				"wpType4Quote": "6 mo.",
+				"dedQuote": "25",
+				"annualMaxQuote": "1500",
+				"annualMaxOverQuote": "",
+				"maxOverLimitQuote": "",
+				"orthoQuote": "6 mo.",
+				"planIdQuote": "",
+                "rateDetailsPerYearDTOList" : [
+					{
+						"benefitPeriod" : "01/31/2021",
+						"subQuote": "26.62",
+						"subSpouseQuote": "56.35",
+						"subChildQuote": "54.14",
+						"subChildrenQuote": "88.37",
+						"familyQuote": "113.19"
+					},
+					{
+						"benefitPeriod" : "01/31/2022",
+						"subQuote": "31.62",
+						"subSpouseQuote": "46.35",
+						"subChildQuote": "55.14",
+						"subChildrenQuote": "80.37",
+						"familyQuote": "115.19"
+					}
+				]
+
+			},
+			{
+				"quoteNum": "Quote 2",
+				"productDesc": "Delta Dental PPO plus Premier",
+				"planDesc" : "Passive",
+				"staticQuote": "PPO/Premier/OON",
+				"type1Quote": "100%/100%/100%",
+				"type2Quote": "90%/80%/80%",
+				"type3Quote": "60%/50%/50%",
+				"type4Quote": "50%/50%/50%",
+				"compositeQuote": "NO",
+				"endodonticQuote": "Type II - Basic",
+				"wpType3Quote": "6",
+				"wpType4Quote": "6",
+				"dedQuote": "25",
+				"annualMaxQuote": "1500",
+				"annualMaxOverQuote": "",
+				"maxOverLimitQuote": "",
+				"orthoQuote": "6 mo.",
+				"planIdQuote": "",
+				"rateDetailsPerYearDTOList" : [
+					{
+						"benefitPeriod" : "01/31/2021",
+						"subQuote": "26.62",
+						"subSpouseQuote": "56.35",
+						"subChildQuote": "54.14",
+						"subChildrenQuote": "88.37",
+						"familyQuote": "113.19"
+					},
+					{
+						"benefitPeriod" : "01/31/2022",
+						"subQuote": "31.62",
+						"subSpouseQuote": "46.35",
+						"subChildQuote": "55.14",
+						"subChildrenQuote": "80.37",
+						"familyQuote": "115.19"
+					}
+				]
+			}
+		]
+	}
+}

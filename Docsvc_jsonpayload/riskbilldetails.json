@@ -1,0 +1,302 @@
+{
+	"documentId": "RISK_GROUP_DETAIL",
+	"outputType": "PDF",
+	"template": "RISK_GROUP_DETAIL",
+	"fileNamePrefix": null,
+	"isBatched": false,
+	"data": {
+		"accountNumber": "00000000181-0000000001",
+		"accountName": "XYZ Company",
+		"groupAdminName": "Group Admin",
+		"billNumber": "22008",
+		"benefitPlanName": "Correspondence.GroupRiskBills.typeemail_and_contactemail_Configured",
+		"totalPremiumAmount": 400,
+		"billingDate": {
+			"eligibilityAsOf": "10/20/2019",
+			"coveragePeriod": "02/01/2020-04/01/2020",
+			"dueDate": "02/29/2020",
+			"billPeriodFrom": "1580515200000",
+			"billPeriodTo": "1585699200000"
+		},
+		"billingAddress": {
+			"addressLine": "Some street",
+			"addressLine2": null,
+			"addressLine3": null,
+			"cityName": "Roanoke",
+			"stateCode": "VA",
+			"zipCode": "26001",
+			"zip4Code": null
+		},
+		"billingAmount": {
+			"totalCurrentDue": "$40.00",
+			"currentDue": "$40.00",
+			"balanceForward": "$260.00",
+			"lastPaymentReceived": "$40.00",
+			"adjustments": "$0.00",
+			"totalDue": "$300.00"
+		},
+		"billingDetail": [
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER",
+				"billingMonth": "03-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/CHILDREN",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/CHILDREN",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/CHILDREN",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/CHILDREN",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey16",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "FAMILY",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			},
+			{
+				"subscriberId": "51000000000183",
+				"lastName": "Krey",
+				"firstName": "Cors",
+				"department": null,
+				"status": null,
+				"type": null,
+				"union": "U",
+				"rateCode": "SUBSCRIBER/SPOUSE",
+				"billingMonth": "02-01-2020",
+				"totalPremium": "$20.00"
+			}
+		],
+		"billingRate": [
+			{
+				"rateName": "Correspondence.GroupRiskBills.typeemail_and_contactemail_Configured",
+				"coverageTierName": "SUBSCRIBER",
+				"count": "2",
+				"amount": "20.00",
+				"totalAmount": "20.00"
+			}
+		]
+	}
+}

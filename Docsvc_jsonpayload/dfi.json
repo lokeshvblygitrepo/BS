@@ -1,0 +1,223 @@
+{
+	"documentId": "DFI",
+	"outputType": "PDF",
+	"template": "DFI",
+	"fileNamePrefix":null,
+	"data": {
+		"claimHccId":"201929400002",
+		"reportDate":"10/11/2019",
+		"recipientFirstAndLastName":"John Walker",
+		"recipientAddress1":"Blue towers",
+		"recipientAddress2":"Old Airport Road",
+		"recipientCityStateZip":"Roanake 572809",
+		"providerFirstAndLastName":"fislt",
+		"providerHccId":"93439090",
+		"networkStatus":"waiting",
+		"subscriberFirstAndLastName":"Neal David",
+		"memberName":"Rob",
+		"rltpToSubscriber":"Self",
+		"topAccountHccId":"00000006025",
+		"memberDob":"10/11/2019",
+
+		"dfiDetails": [
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSB"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2750",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGHGJHSBBJKJ"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			},
+			{
+				"toothNumber": "2",
+				"surface": "N/S",
+				"dateOfService": "01/08/2019",
+				"adAProcedure": "D2",
+				"submittedAmount": "$0.00",
+				"messageCode": "AGH"
+			}
+		],
+		"memberCodes": {
+			"19": "Benefit maximum Annual Maximum Ind (Prem) for this time period has been reached",
+			"AGHGJHSBBJKJ": "I-The contract maximum has been exceeded for the specified time period. Refer to the limitations section of your dental plan document."
+		}
+
+
+	}
+}

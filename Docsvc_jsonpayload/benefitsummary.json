@@ -1,0 +1,371 @@
+{
+	"documentId": "BENEFITS_SUMMARY_REPORT",
+	"outputType": "PDF",
+	"template": "BENEFIT_SUMMARY_REPORT",
+	"data":
+	{
+		"bolTOAFlag" : "true",
+		"subscriberInformation": {
+			"subscriberName" : "CARL CATERPILLARS",
+			"subscriptionId": "51000000000002",
+			"patientName": "CARL CATERPILLAR",
+			"patinetDob": "1999-01-01",
+			"yourRelationship": "Self",
+			"groupNumber": "00000100535-0000000001-0000000001",
+			"groupName": "ROANOKE ANIMAL HOSPITAL",
+			"product": "Delta Dental PPO plus Premier",
+			"coverage": "SUBSCRIBER/CHILD",
+			"originalEffectiveDate": "2019-01-01",
+			"terminationDate": "2019-10-01"
+		},
+		"benefitPlanDetails":{
+			"coordinationOfBenefits": "Allowed",
+			"fileCoveredImpactionsWithMedicalCarrierFirst": "N",
+			"planYearStartDate": "2020-01-01",
+			"planYearEndDate": "2020-12-31"
+		},
+		"benefitMaximumInformation":[
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "Out of Network",
+				"componentName": "Out of Network Ind Ded",
+				"individualFlag": true,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "50.00",
+				"used": "50.00",
+				"remaining": "0.00"
+			},
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "Out of Network",
+				"componentName": "Out of Network Fam Ded",
+				"individualFlag": false,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "150.00",
+				"used": "50.00",
+				"remaining": "100.00"
+			},
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "In Network Premier",
+				"componentName": "In Network Premier Ind Ded",
+				"individualFlag": true,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "50.00",
+				"used": "50.00",
+				"remaining": "0.00"
+			},
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "In Network Premier",
+				"componentName": "In Network Premier Fam Ded",
+				"individualFlag": false,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "150.00",
+				"used": "50.00",
+				"remaining": "100.00"
+			}
+		],
+		"benefitDeductibleInformation":[
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "Out of Network",
+				"componentName": "Out of Network Ind Ded",
+				"individualFlag": true,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "50.00",
+				"used": "50.00",
+				"remaining": "0.00"
+			},
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "Out of Network",
+				"componentName": "Out of Network Fam Ded",
+				"individualFlag": false,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "150.00",
+				"used": "50.00",
+				"remaining": "100.00"
+			},
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "In Network Premier",
+				"componentName": "In Network Premier Ind Ded",
+				"individualFlag": true,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "50.00",
+				"used": "50.00",
+				"remaining": "0.00"
+			},
+			{
+				"benefitPlanId": "100535001",
+				"benefitNetwork": "In Network Premier",
+				"componentName": "In Network Premier Fam Ded",
+				"individualFlag": false,
+				"intervalType": "plan year",
+				"annualLifeTimeFlag": "Annual",
+				"value": "150.00",
+				"used": "50.00",
+				"remaining": "100.00"
+			}
+		],"commonlyRequestedFrequenciesAndLimitations": [
+		{
+			"procedure": "Periodontal Maintenance",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Periodontal Maintenancea",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Exams",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Examsa",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Full Mouth/Panoramic X-Rays",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Full Mouth/Panoramic X-Raysa",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Bitewing X-Rays",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Bitewing X-Raysa",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Cleanings",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Cleaningsa",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Fluoride",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Fluoridea",
+			"ageLimit": "None",
+			"nextEligible": "N/A"
+		},
+		{
+			"procedure": "Space Maintainers",
+			"ageLimit": "None",
+			"nextEligible": "per quadrant"
+		},
+		{
+			"procedure": "Space Maintainersa",
+			"ageLimit": "None",
+			"nextEligible": "per quadrant"
+		},
+		{
+			"procedure": "Periodontal Scaling",
+			"ageLimit": "None",
+			"nextEligible": "per quadrant"
+		},
+		{
+			"procedure": "Periodontal Scalinga",
+			"ageLimit": "None",
+			"nextEligible": "per quadrant"
+		},
+		{
+			"procedure": "Prosthodontics",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Prosthodonticsa",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Implants",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Implantsa",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Occlusal Guards",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Occlusal Guardsa",
+			"ageLimit": "None",
+			"nextEligible": "2019-10-08"
+		},
+		{
+			"procedure": "Sealants",
+			"ageLimit": "None",
+			"nextEligible": "per tooth"
+		},
+		{
+			"procedure": "Sealantsa",
+			"ageLimit": "None",
+			"nextEligible": "per tooth"
+		},
+		{
+			"procedure": "Crowns",
+			"ageLimit": "None",
+			"nextEligible": "per tooth"
+		},
+		{
+			"procedure": "Crownsa",
+			"ageLimit": "None",
+			"nextEligible": "per tooth"
+		}
+	], "benefitNetworkCopay": [{
+		"benefit": "PPO Prem OON / Ben / D & P / Ded Exmpt",
+		"copay": "100 %",
+		"deductible": "true",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Restorative",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Endodontics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Peodontics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodoncs",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodontic",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodonti",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodo",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "In Network PPO"
+	}, {
+		"benefit": "PPO Prem OON / Ben / D & P / Ded Exmpt",
+		"copay": "100 %",
+		"deductible": "true",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Restorative",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Endodontics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Periodontics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	}, {
+		"benefit": "PPO Prem OON / Ben / Peodontics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodics",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodoncs",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodoncs",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodontic",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodonti",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	},{
+		"benefit": "PPO Prem OON / Ben / Periodo",
+		"copay": "80 %",
+		"deductible": "false",
+		"waitingPeriodSatisfied": "mockData",
+		"benefitNetwork": "Out of Network"
+	}]
+	}
+}

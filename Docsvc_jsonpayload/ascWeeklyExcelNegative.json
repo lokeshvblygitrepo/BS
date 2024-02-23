@@ -1,0 +1,62 @@
+{
+	"documentId": "ASC_WEEKLY",
+	"outputType": "EXCEL",
+	"template": null,
+	"fileNamePrefix": "ASC_WEEKLY",
+	"isBatched": false,
+	"isFirstPage": null,
+	"isLastBatch": null,
+	"data": {
+		"ascWeeklyBill": {
+			"accountHccId": "00000700256-0000000001",
+			"accountName": "CAPITAL ONE SERVICES LLC",
+			"dueDate": "2020-06-05 00:00:00.0",
+			"creationDate": "2020-06-05 00:00:00.0",
+			"billNum": "30319",
+			"balanceForward": "$0.00",
+			"totalClaimAmount": "$54.00",
+			"totalAdjustments": "0",
+			"totalCharges": "54",
+			"billTotalDue": "($54.00)",
+			"claimsCount": "2",
+			"groupAdminName": "Heather Wirt",
+			"accountAddress1": null,
+			"accountAddress2": null,
+			"accountCityStateZip": null,
+			"accountHccIdAndCheckDigit": null,
+			"billingAddress": {
+				"addressLine": "15000 Capital One Drive",
+				"addressLine2": null,
+				"addressLine3": null,
+				"cityName": "RICHMOND",
+				"stateCode": "VA",
+				"zipCode": "23238",
+				"zip4Code": null
+			},
+			"checkDigit": 4
+		},
+		"garSummary": {
+			"billFactKey": null,
+			"subSubAccountHccId": "00000700256-0000000001",
+			"subSubAccountName": "CAPITAL ONE SERVICES LLC",
+			"subAccountHccId": "00000700256-0000000001",
+			"subAccountName": "CAPITAL ONE SERVICES LLC",
+			"billPeriodFrom": "2020-06-05 00:00:00.0",
+			"billPeriodTo": "2020-06-05 00:00:00.0",
+			"totalAmountPaid": "$54.00",
+			"totalClaimsCount": "2",
+			"totalAmountSubmitted": "$100.00",
+			"totalMemberRespAmount": "$46.00",
+			"garSummaryList": [
+				{
+					"accountNumber": "00000700256-0000000001-0000000001",
+					"accountName": "CAPITAL ONE SERVICES LLC",
+					"claimCount": "2",
+					"amountSubmitted": "$100.00",
+					"amountPaid": "$54.00",
+					"patientPays": "$46.00"
+				}
+			]
+		}
+	}
+}

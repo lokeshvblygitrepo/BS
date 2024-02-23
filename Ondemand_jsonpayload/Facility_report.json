@@ -1,0 +1,19 @@
+{
+
+    "reportId" : "FACILITY_REPORT",
+
+    "outputFormat" : "PDF",
+
+    "filterParams" :
+
+    {
+
+        "SUPPLIER_HCC_ID":"271429052",
+
+        "SUPPLIER_LOCATION_HCC_ID" : "271429052-1-VA"
+
+        
+
+    }
+
+}

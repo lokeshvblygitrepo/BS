@@ -1,0 +1,32 @@
+{
+    "documentId": "WEEKLY_CLAIMS_AND_ADMIN_BILL",
+    "outputType": "PDF",
+    "template": "CLAIMS_AND_ADMIN_BILL_WEEKLY",
+    "data": {
+        "ascWeeklyBill" : {
+            "accountHccId": "00000000781-0000000001",
+            "accountName": "ASC Weekly - Correspondence",
+            "dueDate": "2019-10-28 00:00:00.0",
+            "creationDate": "2019-10-28 00:00:00.0",
+            "billNum": "12008",
+            "balanceForward": "33",
+            "totalClaimAmount": "66",
+            "totalAdjustments": "0",
+            "totalCharges": "66",
+            "billTotalDue": "99",
+            "claimsCount": "2",
+            "checkDigit" : "4",
+            "groupAdminName" : "Group Admin",
+            "billingAddress": {
+                "addressLine": "387 North Main St",
+                "addressLine2": "Some City",
+                "addressLine3": null,
+                "addressType": null,
+                "cityName": "Roanoke",
+                "stateCode": "VA",
+                "zipCode": "24015",
+                "zip4Code": 12
+            }
+        }
+    }
+}

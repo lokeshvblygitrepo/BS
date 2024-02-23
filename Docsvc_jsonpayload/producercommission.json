@@ -1,0 +1,514 @@
+{
+	"documentId": "PCS_FIRST_PAGE",
+	"outputType": "PDF",
+	"template": "PCS_FIRST_PAGE",
+	"fileNamePrefix":null,
+	"data": {
+		"paymentFactKey": "1212121212",
+		"coveragePeriod": "11-11-2019",
+		"brokerTaxId": "21000285",
+		"brokerName": "SSOCIATES DDS PLLC",
+		"brokerAddressLine":"brokerAddressLine1",
+		"brokerAddressLine2":"46161 Westlake Dr Ste 100",
+		"brokerCityStateZip":"46161 Westlake Dr Ste 100",
+		"reportDate" :"11-11-2019",
+		"brokerId":"287338937",
+		"pcsDetailsList": [
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100000",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100001",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			}
+		,
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100002",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100003",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100004",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100005",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100006",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100007",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100008",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100009",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100010",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100011",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100012",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100013",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100013",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100015",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100016",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100017",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100018",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100019",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100020",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100021",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100022",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100023",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100024",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100025",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100026",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100027",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100028",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100029",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100030",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100031",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100032",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100033",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100034",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100035",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100036",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			},
+			{
+				"topAccountName":"SSOCIATES DDS PLLC",
+				"topAccountHccId" : "000111-100999-0999",
+				"subAccountHccId":"5100037",
+				"billDueDate" : "11-11-2019",
+				"invoiceAmount" : "10",
+				"premiumReceived": "10",
+				"commissionBasis" : "10",
+				"commissionRate" : "23",
+				"commissionAmount" :"25",
+				"billingMonth" :"11-11-2019"
+
+			}
+		]
+	}
+}

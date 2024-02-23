@@ -1,0 +1,44 @@
+{
+	"documentId": "MONTHLY_CLAIMS_AND_ADMIN_BILL",
+	"outputType": "PDF",
+	"template": "CLAIMS_AND_ADMIN_BILL_MONTHLY",
+	"data": {
+		"ascMonthlyBill" : {
+			"billFactKey": "26013",
+			"accountKey": "38005",
+			"accountName": "ASC Monthly - Correspondence",
+			"billingParty": "Account",
+			"billStatusDesc": "Accepted",
+			"accountHccId": "00000000782-0000000001",
+			"billingCycleName": "DDVA ASC Admin Fee",
+			"billNum": "26013",
+			"billPeriodFrm": "1800-01-01",
+			"billPeriodTo": "2019-10-01",
+			"claimPaidThru": "2019-10-01",
+			"billDueDate": "2019-10-15",
+			"balanceForward": 0,
+			"billPremiumCharges": 6,
+			"billTotalAdjustment": 2370,
+			"billTotalCharges": 6,
+			"billTotalDue": 2376,
+			"numOfClaims": 2,
+			"adminFeeRate": 6,
+			"claimsAmount": 55,
+			"escrowAmount": 2300,
+			"manualAdjustments": 15,
+			"sectionTotalAdjustments": 2370,
+			"enrollmentCount": 1,
+			"adminFeeAmount": 6,
+			"billingAddress": {
+				"addressLine": "387 North Main St",
+				"addressLine2": null,
+				"addressLine3": null,
+				"addressType": null,
+				"cityName": "Roanoke",
+				"stateCode": "VA",
+				"zipCode": "24015",
+				"zip4Code": null
+			}
+		}
+	}
+}

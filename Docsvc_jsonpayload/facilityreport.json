@@ -1,0 +1,80 @@
+{
+	"documentId": "FACILITY_REPORT",
+	"outputType": "PDF",
+	"data": {
+		"supplierLocationName": "THE VIRGINIA ENDODONTIC GROUP KINGSTOWNE LLC",
+		"supplierLocationAddress1": "6831 Sir Viceroy Dr Ste 210",
+		"supplierLocationAddress2": null,
+		"city": "Alexandria",
+		"state": "VA",
+		"zip": "22315",
+		"zip4" : "3719",
+		"supplierPhoneNumber": null,
+		"billingProviderNPI" : null,
+		"supplierLocationStartDate": "2010-08-01 00:00:00",
+		"w9Signed" : "No",
+		"language" : "English, Spanish; Castilian",
+		"supplierLocationNumber": "127365537",
+		"supplierHistoryFactKeyId" : "1821573",
+		"pageprovider": [
+			{
+				"providerList": [
+					{
+						"providerName": "NGO, TU-SON T",
+						"providerNPI": "1013923903",
+						"license": "000401411494",
+						"state": "VA",
+						"licenseEffective": "2006-06-26 00:00:00",
+						"participation" : null,
+						"specialty" : "Endodontics"
+					},
+					{
+						"providerName": "NGO, TU-SON T",
+						"providerNPI": "1013923903",
+						"license": "000401411494",
+						"state": "VA",
+						"licenseEffective": "2006-06-26 00:00:00",
+						"participation" : null,
+						"specialty" : "Endodontics"
+					},
+					{
+						"providerName": "NGO, TU-SON T",
+						"providerNPI": "1013923903",
+						"license": "000401411494",
+						"state": "VA",
+						"licenseEffective": "2006-06-26 00:00:00",
+						"participation" : null,
+						"specialty" : "Endodontics"
+					},
+					{
+						"providerName": "NGO, TU-SON T",
+						"providerNPI": "1013923903",
+						"license": "000401411494",
+						"state": "VA",
+						"licenseEffective": "2006-06-26 00:00:00",
+						"participation" : null,
+						"specialty" : "Endodontics"
+					},
+					{
+						"providerName": "NGO, TU-SON T",
+						"providerNPI": "1013923903",
+						"license": "000401411494",
+						"state": "VA",
+						"licenseEffective": "2006-06-26 00:00:00",
+						"participation" : null,
+						"specialty" : "Endodontics"
+					},
+					{
+						"providerName": "NGO, TU-SON T",
+						"providerNPI": "1013923903",
+						"license": "000401411494",
+						"state": "VA",
+						"licenseEffective": "2006-06-26 00:00:00",
+						"participation" : null,
+						"specialty" : "Endodontics"
+					}
+				]
+			}
+		]
+	}
+}

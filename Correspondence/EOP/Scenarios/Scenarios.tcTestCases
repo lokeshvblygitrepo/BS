@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scenarios>
+	<Feature Path="EOP_Subscriber.feature" />
+	<Feature Path="EOP_Supplier.feature" />
+</Scenarios>

@@ -1,0 +1,489 @@
+{
+	"documentId": "RISK_COVER_PAGE",
+	"outputType": "PDF",
+	"fileNamePrefix" : "risk_cover",
+	"data": {
+		"accountNumber": "00000006345-0000000001",
+		"accountName": "Accions Labs",
+		"groupAdminName": "Group Admin",
+		"billNumber": "6304",
+		"benefitPlanName": "xyz",
+		"isPremiumLevelCycle": "true",
+		"billingDate": {
+			"eligibilityAsOf": "08/08/2019",
+			"coveragePeriod": "10/01/2018-10/30/2018",
+			"dueDate": "08/01/2019"
+		},
+		"billingAddress": {
+			"addressLine": "387 North Main St",
+			"addressLine2": null,
+			"addressLine3": null,
+			"addressType": null,
+			"cityName": "Roanoke",
+			"stateCode": "VA",
+			"zipCode": "24015",
+			"zip4Code": null
+		},
+		"billingAmount": {
+			"totalCurrentDue": "$8280772.95",
+			"currentDue": "$8280772.95",
+			"balanceForward": "$41751.35",
+			"lastPaymentReceived": "$8280772.95",
+			"adjustments": "$0.00",
+			"totalDue": "$8322524.30"
+		},
+		"billingDetail": [
+
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAR 2017",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAR 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "APR 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAY 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JUN 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JUL 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "AUG 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "SEP 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "OCT 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "NOV 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010180948",
+				"lastName": "WILLIAM",
+				"firstName": "HUTCHISON",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "DEC 2018",
+				"rateCode": "SUBSCRIBER",
+				"totalPremium": 21.21,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JAN 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JAN 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "FEB 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAR 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "APR 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAY 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JUN 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JUL 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "AUG 2018",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAR 2019",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "APR 2019",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "MAY 2019",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JUN 2019",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "JUL 2019",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "AUG 2019",
+				"rateCode": "FAMILY",
+				"totalPremium": 65.95,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES",
+				"billingMonth": "AUG 2019",
+				"rateCode": "N/A",
+				"totalPremium": 20.00,
+				"union": "N"
+			},
+			{
+				"subscriberId": "51000010416201",
+				"lastName": "MARK",
+				"firstName": "HAGER",
+				"status": "Active",
+				"type": "Unspecified",
+				"department": "ESTES EXPRESS LINES I",
+				"billingMonth": "AUG 2019",
+				"rateCode": "N/A",
+				"totalPremium": 65.00,
+				"union": "N"
+			}
+		],
+		"billingRate": [
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION I",
+				"coverageTierName": "FAMILY",
+				"count": 28726,
+				"totalAmount": 65.95,
+				"amount": 65.95
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION I",
+				"coverageTierName": "SUBSCRIBER",
+				"count": 46700,
+				"totalAmount": 21.21,
+				"amount": 21.21
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION I",
+				"coverageTierName": "SUBSCRIBER/CHILD",
+				"count": 13802,
+				"totalAmount": 39.3,
+				"amount": 39.3
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION I",
+				"coverageTierName": "SUBSCRIBER/CHILDREN",
+				"count": 12273,
+				"totalAmount": 65.95,
+				"amount": 65.95
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION I",
+				"coverageTierName": "SUBSCRIBER/SPOUSE",
+				"count": 19066,
+				"totalAmount": 39.3,
+				"amount": 39.3
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION II",
+				"coverageTierName": "FAMILY",
+				"count": 10067,
+				"totalAmount": 64.67,
+				"amount": 64.67
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION II",
+				"coverageTierName": "SUBSCRIBER",
+				"count": 42766,
+				"totalAmount": 21.21,
+				"amount": 21.21
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION II",
+				"coverageTierName": "SUBSCRIBER/CHILD",
+				"count": 9429,
+				"totalAmount": 39.49,
+				"amount": 39.49
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION II",
+				"coverageTierName": "SUBSCRIBER/CHILDREN",
+				"count": 5081,
+				"totalAmount": 64.67,
+				"amount": 64.67
+			},
+			{
+				"rateName": "ESTES EXPRESS LINES/OPTION II",
+				"coverageTierName": "SUBSCRIBER/SPOUSE",
+				"count": 15757,
+				"totalAmount": 39.49,
+				"amount": 39.49
+			},
+			{
+				"rateName": "ESTES WEST/OPTION I",
+				"coverageTierName": "FAMILY",
+				"count": 6311,
+				"totalAmount": 89.49,
+				"amount": 89.49
+			},
+			{
+				"rateName": "ESTES WEST/OPTION I",
+				"coverageTierName": "SUBSCRIBER",
+				"count": 6539,
+				"totalAmount": 28.8,
+				"amount": 28.8
+			},
+			{
+				"rateName": "ESTES WEST/OPTION I",
+				"coverageTierName": "SUBSCRIBER/CHILD",
+				"count": 2627,
+				"totalAmount": 53.29,
+				"amount": 53.29
+			},
+			{
+				"rateName": "ESTES WEST/OPTION I",
+				"coverageTierName": "SUBSCRIBER/CHILDREN",
+				"count": 2578,
+				"totalAmount": 89.49,
+				"amount": 89.49
+			},
+			{
+				"rateName": "ESTES WEST/OPTION I",
+				"coverageTierName": "SUBSCRIBER/SPOUSE",
+				"count": 2526,
+				"totalAmount": 53.29,
+				"amount": 53.29
+			},
+			{
+				"rateName": "ESTES WEST/OPTION I",
+				"coverageTierName": "N/A",
+				"count": 25,
+				"totalAmount": 50.29,
+				"amount": 50.29
+			}
+		]
+	}
+}

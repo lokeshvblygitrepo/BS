@@ -1,0 +1,22 @@
+{
+	"documentId": "APPEALS",
+	"outputType": "PDF",
+	"template": "COVA_FIRST_TIMELY_EXPIRED",
+	"data":
+	{
+		"reportDate": "March 20, 2020",
+		"recipientFirstAndLastName": "BRIAN ALEXANDER",
+		"recipientAddress1": "4572 FRANKLIN RD SW",
+		"recipientAddress2": "",
+		"recipientCityStateZip" : "ROANOKE , VA 24014",
+		"memberFirstAndLastName" : "EDGAR EVANS",
+		"subscriptionHccId":"51000000000039",
+		"appealType":"BS - Benefits",
+		"claimHccId" :"201933900001",
+		"subscriberFirstAndLastName":"EDGAR EVANS",
+		"appealReceivedDate" : "1950-01-01 00:00:00.0",
+		"spdEoc" : "",
+		"commentHistoryComment": "",
+		"issueFactKey": "14007"
+	}
+}
